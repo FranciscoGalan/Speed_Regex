@@ -9,13 +9,15 @@ A game in which players must type regex patterns to match the texts shown before
 
 ## Gameplay
 
+Try to solve as many challenges as you can using regular expressions. The game will let you try again if you fail to make a match:  
+
 ![](https://github.com/FranciscoGalan/Speed_Regex/blob/main/Media/Question.PNG)
 
-You can win prices. 
+You will receive different prizes depending on your score:
 
 ![](https://github.com/FranciscoGalan/Speed_Regex/blob/main/Media/Apatosaurio.PNG)
 
-Or if you feel confident enough in your regex skills, try to get a T-Regex:
+If you feel confident enough in your regex skills, try to get the secret T-Regex:
 
 ![](https://github.com/FranciscoGalan/Speed_Regex/blob/main/Media/T-regex.PNG)
 
