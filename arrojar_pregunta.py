@@ -44,11 +44,11 @@ def arrojar_pregunta(thread_temporizador, p_restantes):
                 pregunta_activa = False
 
             elif match:
-                print(u'\u001b[38;5;84m' + '¡Correcto!' + u'\u001b[0m')
+                print(u'\u001b[38;5;84m' + 'Correcto!' + u'\u001b[0m')
                 pregunta_activa = False
 
             else:
-                print(u'\u001b[38;5;209m' + 'Inténtalo nuevamente :(' + u'\u001b[0m')
+                print(u'\u001b[38;5;209m' + 'Intenta nuevamente :(' + u'\u001b[0m')
                 intentos += 1
         
         except:

@@ -1,44 +1,38 @@
-<img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
-
 # Speed Regex
-*Francisco Galán, Nayely Saldivar*
+A game in which players must type regex patterns to match the texts shown before the time runs out! It aims to strengthen a person's skill with regex.     
 
-*DAPT 2020, Ciudad de México, Octubre 2020*
+#### ![]()
 
-## Content
-- [Project Description](#project-description)
-- [Challenges](#challenges)
-- [Our next step](#our-next-step)
-- [Links](#links)
+NOTE: This game is in Spanish. 
 
-<a name="project-description"></a>
 
-## Project Description
-Juego que pone a prueba tu habilidad para crear expresiones regulares. 
-¡Consigue el mayor número de puntos y rompe tu récord!  
-<a name="workflow"></a>
 
-## Challenges
-- Primer experiencia de Git como parte de un equipo
-- Investigación en la documentación de nuevas bibliotecas (threading, time)
-- Aplicación de las estructuras lógicas para mantener el flujo de ejecución
-- Fragmentar de manera eficiente el código
+## Gameplay
 
-## Our next step
-En la siguiente versión añadiremos:
+
+
+
+
+## Usage
+
+Open your terminal, navigate to the "Speed Regex" folder, and launch the game with [https://www.python.org/](https://www.python.org/) by executing `launcher.py`. 
+
+
+
+## Next steps
+
 - Scoreboard: Input de usuario y tabla de récords con los 5 campeones de SpeedRegex
+
 - Clasificación de preguntas según el tiempo restante, a menos tiempo ~ mayor dificultad
+
 - Preguntas bonus: Aplicando string operations u otros ejecutables de Python para ganar tiempo/puntos adicionales
 
-<a name="links"></a>
+  
 
-## Links
-Más información sobre el uso de Regex:
+## Additional info
+The inspiration for this project is a videogame called "[The Typing of The Dead](https://www.youtube.com/watch?v=sNfQ_B6_xy8)", in which a player must quickly type letters, words and phrases to kill fast-advancing enemies.
 
-https://regexone.com/ 
+More on regex:
 
-https://www.w3resource.com/python-exercises/re/ 
-
-Inspiración: "The Typing of The Dead"
-
-https://www.youtube.com/watch?v=sNfQ_B6_xy8
+- https://regexone.com/ 
+- https://www.w3resource.com/python-exercises/re/ 
