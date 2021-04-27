@@ -3,7 +3,7 @@ A game in which players must type regex patterns to match the texts shown before
 
 #### ![](https://github.com/FranciscoGalan/Speed_Regex/blob/main/Media/Speed_regex_landing.PNG)
 
-NOTE: This game is in Spanish. 
+*NOTE: This game is in Spanish.* 
 
 
 
