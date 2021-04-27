@@ -1,7 +1,7 @@
 # Speed Regex
 A game in which players must type regex patterns to match the texts shown before the time runs out! It aims to strengthen a person's skill with regex.     
 
-#### ![]()
+#### ![](https://github.com/FranciscoGalan/Speed_Regex/blob/main/Media/Speed_regex_landing.PNG)
 
 NOTE: This game is in Spanish. 
 
@@ -9,7 +9,15 @@ NOTE: This game is in Spanish.
 
 ## Gameplay
 
+![](https://github.com/FranciscoGalan/Speed_Regex/blob/main/Media/Question.PNG)
 
+You can win prices. 
+
+![](https://github.com/FranciscoGalan/Speed_Regex/blob/main/Media/Apatosaurio.PNG)
+
+Or if you feel confident enough in your regex skills, try to get a T-Regex:
+
+![](https://github.com/FranciscoGalan/Speed_Regex/blob/main/Media/T-regex.PNG)
 
 
 
